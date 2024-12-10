@@ -3,4 +3,5 @@ GMM_Aeros_V1：The research constructs an empirical model using a mixed-effects 
 
 Reference：
 Karimzadeh, Shaghayegh, Amirhossein Mohammadi, Usman Salahuddin, Alexandra Carvalho, and Paulo B. Lourenço. "Backbone ground motion model through simulated records and XGBoost machine learning algorithm: An application for the Azores plateau (Portugal)." Earthquake Engineering & Structural Dynamics 53, no. 2 (2024): 668-693. https://doi.org/10.1002/eqe.4040
+
 Kun Ji , Shaghayegh Karimzadeh , Saman Yaghmaei-Sabegh , Ruibin Hou , Paulo B. Lourenço, Ground Motion Model using Simulated Scenario Earthquake Records in Azores Plateau (Portugal) at Bedrock (2024) Earthquake Spectra （under review）
